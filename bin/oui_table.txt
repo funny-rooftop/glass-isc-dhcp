@@ -23906,3 +23906,4 @@ E48F34:::Vodafone Italia S.p.A.
 2C6B7D:::Texas Instruments
 000130:::Extreme Networks, Inc.
 788038:::FUNAI ELECTRIC CO., LTD.
+B42E99:::GIGA-BYTE TECHNOLOGY CO.,LTD.
